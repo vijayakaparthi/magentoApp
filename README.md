@@ -1,0 +1,2 @@
+# magentoApp
+Automated test code
